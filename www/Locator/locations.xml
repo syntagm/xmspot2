@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<markers>
+	<marker name="Cape Town" lat="-33.9248685" lng="18.424055299999964" category="Astral" address="Bontebok Blvd" address2="" city="Waterfront" state="WC" postal="55416" country="ZA" phone="612-922-6662" email="syntagm@icon.co.za" web="http://www.syntagm.co.za" hours1="Mon-Sun 11am-10pm" hours2="" hours3="" featured="" />
+	<marker name="KlipFarms" lat=" -33.72440" lng="18.70812" category="Rainbow" address="Malmesbury Rd Rd" address2="" city="Malmesbury" state="WC" postal="55416" country="ZA" phone="952-922-1970" email="syntagm@icon.co.za" web="http://www.syntagm.co.za" hours1="Mon-Sun 11am-10pm" hours2="" hours3="" featured="" />
+	<marker name="SAPA 2013 Brand1" lat=" -33.70549" lng="18.74611" category="Afgri Chics" address="2600 Hennepin Ave." address2="" city="Klipheuwel Estate" state="WC" postal="55404" country="ZA" phone="612-377-6035" email="syntagm@icon.co.za" web="http://www.syntagm.co.za" hours1="Mon-Sun 11am-10pm" hours2="" hours3="" featured="true" />
+	<marker name="SAPA 2013 Paarl" lat="-33.72206" lng="18.98849" category="Country Bird" address="Southern Paarl Rd" address2="" city="Golden Valley" state="WC" postal="55427" country="ZA" phone="763-544-2530" email="syntagm@icon.co.za" web="http://www.syntagm.co.za" hours1="Mon-Sun 11am-10pm" hours2="" hours3="" featured="" />
+	<marker name="SAPA Techno Chics" lat="-33.96500" lng="18.84567" category="Restaurant" address="786 Mainstreet" address2="" city="Hopkins" state="WC" postal="55343" country="ZA" phone="952-935-0044" email="syntagm@icon.co.za" web="http://www.syntagm.co.za" hours1="Mon-Sun 11am-10pm" hours2="" hours3="" featured="" />
+	
+	
+</markers>

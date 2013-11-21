@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SAPA Map Example</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/map.css" />
+  </head>
+
+  <body>
+    
+    <div id="store-locator-container">
+      <div id="page-header">
+        <h1>Using the Boland as example</h1>
+        <p>I used locations around the WC. </p>
+		<p>So, for example Stellenbosch, Paarl, Klipheuwel </p>
+		<p>and Cape Town would be good for testing the functionality.</p> 
+       <p> You can use just the city as the address - ex: Cape Town</p>
+		<p> Shrink the map to see all locations or Click on the relevant box</p>
+		<hr>
+		
+      </div>
+      
+      <div id="form-container">
+        <form id="user-location" method="post" action="#">
+            <div id="form-input">
+              <label for="address">Enter Address or Zip Code:</label>
+              <input type="text" id="address" name="address" />
+             </div>
+            
+            <button id="submit" type="submit">Submit</button>
+        </form>
+      </div>
+
+      <div id="map-container">
+        <div id="loc-list">
+            <ul id="list"></ul>
+        </div>
+        <div id="map"></div>
+      </div>
+    </div>
+
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script src="js/handlebars-1.0.0.min.js"></script>
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+    <script src="js/jquery.storelocator.js"></script>
+      <script>
+        $(function() {
+          $('#map-container').storeLocator();
+        });
+      </script>
+
+  </body>
+</html>
