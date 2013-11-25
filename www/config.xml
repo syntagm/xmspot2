@@ -21,13 +21,13 @@
 		xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "za.co.syntagm.xmspot"
         version   = "1.0.0">
-    <name>Farm GPS</name>
+    <name>xMSpot</name>
 
     <description>
-        A Poultry Farm Locator for SAPA
+        SAPA Integrated Poultry Management Application
     </description>
 
-    <author href="http://cordova.io" email="dev@cordova.apache.org">
+    <author href="http://cordova.io" email="syntagm@icon.co.za">
         Syntagm Cordova Team
     </author>
 
