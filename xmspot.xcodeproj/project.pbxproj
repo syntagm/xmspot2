@@ -510,6 +510,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = xmspot;
+				PROVISIONING_PROFILE = "CB0E0FFA-965C-4C7A-8BD7-1CD3B10E5DBF";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -545,6 +546,7 @@
 					"-ObjC",
 				);
 				PRODUCT_NAME = xmspot;
+				PROVISIONING_PROFILE = "CB0E0FFA-965C-4C7A-8BD7-1CD3B10E5DBF";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
