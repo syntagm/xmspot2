@@ -35,7 +35,7 @@ body {
 }
 
 #wrapper > section > section > header .showmenu {
-    display: inline-block;
+	display: inline-block;
     z-index: 100;
 }
 

@@ -149,4 +149,6 @@ input[type=reset]::-moz-focus-inner,
 button::-moz-focus-inner {
     border: 0;
     padding: 0;
+}.container_12.clearfix.leading .grid_12 .message.info h3 {
+	line-height: normal;
 }
