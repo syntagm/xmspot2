@@ -18,22 +18,27 @@
  under the License.
 -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
-        id        = "io.cordova.helloCordova"
-        version   = "2.0.0">
-    <name>Hello Cordova</name>
+		xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "za.co.syntagm.synapp01"
+        version   = "1.0.0">
+    <name>xMSpot</name>
 
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        SAPA Integrated Poultry Management Application
     </description>
 
-    <author href="http://cordova.io" email="dev@cordova.apache.org">
-        Apache Cordova Team
+    <author href="http://www.syntagm.co.za" email="syntagm@icon.co.za">
+        Syntagm Cordova Team
     </author>
 
     <access origin="*"/>
 
     <!-- <content src="http://mysite.com/myapp.html" /> for external pages -->
     <content src="index.html" />
+	
+	<!-- Feature added afterwards  -->
+	
+	<feature name="http://api.phonegap.com/1.0/geolocation"/>
 
     <!-- Preferences for iOS -->
     <preference name="AllowInlineMediaPlayback" value="false" />
